@@ -1,45 +1,35 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Your Projects Showcase</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 20px;
-        }
+# Your Projects Showcase
 
-        .project {
-            margin-bottom: 20px;
-        }
+## Main Projects
 
-        .project h2 {
-            margin-bottom: 5px;
-        }
+### Project 1: Music Player
+- **Description:** Playful Interface: The UI is designed with a touch of childhood fun. Because why should adults have all the serious interfaces?
 
-        .project p {
-            color: #555;
-        }
-    </style>
-</head>
-<body>
+Jammin' Controls: Easily navigate through your favorite tunes with kid-friendly controls. Play, pause, and skip with a smile! 🎸🤘
 
-    <h1>Your Projects Showcase</h1>
+Feel-Good Playlists: Curated playlists for every mood. Whether you're feeling like a superhero or just need a dance break, I've got you covered.
 
-    <div class="project">
-        <h2>Project 1: Project Name</h2>
-        <p>Description: Brief description of the project goes here.</p>
-        <p>GitHub Repository: <a href="https://github.com/yourusername/project1">https://github.com/yourusername/project1</a></p>
-    </div>
+- **GitHub Repository:** [Music Player](https://github.com/PrathmeshPol2004/MUSIC)
+- **Live Demo:** [Music Player](https://prathmeshpol2004.github.io/MUSIC/)
+- **Programming Languages Used:** JavaScript, HTML, CSS
 
-    <div class="project">
-        <h2>Project 2: Another Project Name</h2>
-        <p>Description: Brief description of the project goes here.</p>
-        <p>GitHub Repository: <a href="https://github.com/yourusername/project2">https://github.com/yourusername/project2</a></p>
-    </div>
+<!--### Project 2: Another Project Name
+- **Description:** Brief description of the project goes here.
+- **GitHub Repository:** [Project 2 Repository](https://github.com/yourusername/project2)
+- **Programming Languages Used:** Python, Flask, SQL -->
 
-    <!-- Add more project sections as needed -->
+<!-- Add more main projects as needed -->
 
-</body>
-</html>
+<!--## Mini-Projects
+
+### Mini-Project 1: Mini-Project Name
+- **Description:** Brief description of the mini-project goes here.
+- **GitHub Repository:** [Mini-Project 1 Repository](https://github.com/yourusername/mini-project1)
+- **Programming Languages Used:** Java, Spring Boot
+
+### Mini-Project 2: Another Mini-Project Name
+- **Description:** Brief description of the mini-project goes here.
+- **GitHub Repository:** [Mini-Project 2 Repository](https://github.com/yourusername/mini-project2)
+- **Programming Languages Used:** Ruby, Ruby on Rails -->
+
+<!-- Add more mini-projects as needed -->
