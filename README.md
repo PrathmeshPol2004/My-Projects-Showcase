@@ -7,7 +7,8 @@
 
 - **GitHub Repository:** [Music Player](https://github.com/PrathmeshPol2004/MUSIC)
 - **Live Demo:** [Music Player](https://prathmeshpol2004.github.io/MUSIC/)
-- **Programming Languages Used:** JavaScript, HTML, CSS
+- **Programming Languages Used:** JavaScript, HTML, CSS.
+- ** Process: ** Incomplete
 
 <!--### Project 2: Another Project Name
 - **Description:** Brief description of the project goes here.
