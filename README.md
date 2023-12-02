@@ -3,11 +3,7 @@
 ## Main Projects
 
 ### Project 1: Music Player
-- **Description:** Playful Interface: The UI is designed with a touch of childhood fun. Because why should adults have all the serious interfaces?
-
-Jammin' Controls: Easily navigate through your favorite tunes with kid-friendly controls. Play, pause, and skip with a smile! 🎸🤘
-
-Feel-Good Playlists: Curated playlists for every mood. Whether you're feeling like a superhero or just need a dance break, I've got you covered.
+- **Description:** A web-based music app allowing users to explore and play their favorite tunes.
 
 - **GitHub Repository:** [Music Player](https://github.com/PrathmeshPol2004/MUSIC)
 - **Live Demo:** [Music Player](https://prathmeshpol2004.github.io/MUSIC/)
