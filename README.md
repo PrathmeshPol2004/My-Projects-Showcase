@@ -10,6 +10,13 @@
 - **Programming Languages Used:** JavaScript, HTML, CSS.
 - **Progress:** Incomplete
 
+### Project 2: Calculator UI with
+- **Description:** A web-based calculator app allowing users to do basic calculations.
+- **Github Repository:** [calculator](https://github.com/PrathmeshPol2004/Calculater)
+- **Live Demo:** [Calculation](https://prathmeshpol2004.github.io/Calculater/)
+- **Programming languages Used: ** JavaScript, HTML, CSS.
+- **Progress:** Complete
+
 <!--### Project 2: Another Project Name
 - **Description:** Brief description of the project goes here.
 - **GitHub Repository:** [Project 2 Repository](https://github.com/yourusername/project2)
